@@ -18,6 +18,6 @@ public class MethodChaining1 {
 	}
 	
 	public static void main(String[] args) {
-	MethodChaining1 m=new  
+//	MethodChaining1 m=new  
 	}
 }

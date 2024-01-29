@@ -22,7 +22,7 @@ public class Game {
 		WebElement capitalElement=driver.findElement(By.id("box6"));
 		WebElement counElement=driver.findElement(By.id("box106"));
 		
-		actions.clickAndHold(capitalElement).dra8
+		//actions.clickAndHold(capitalElement).dra8
 		actions.dragAndDrop(capitalElement, counElement).build().perform();
 		
 //		WebElement capitalElement1=driver.findElement(By.id("box7"));
